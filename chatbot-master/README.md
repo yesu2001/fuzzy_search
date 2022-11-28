@@ -6,4 +6,8 @@ I hope it makes a good intro for anyone interested in chatbots and frontend fund
 
 Enjoy!
 
+screenshot:
+
+![Chatbot - Google Chrome 28_11_2022 23_12_06](https://user-images.githubusercontent.com/72061096/204345728-45f1482d-80d4-427b-8ad0-a8252c5a5435.png)
+
 
